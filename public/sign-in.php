@@ -21,7 +21,7 @@
                     }
                 }
 
-                header("Location: ../dashboard.php");
+                header("Location: /public/dashboard.php");
                 exit();
             } else {
                 echo "<script>
